@@ -4,7 +4,7 @@
 
 
 brehinner avila,
-camilo matayana,
+camilo matallana,
 diego rivera
 ## quiz 2
 

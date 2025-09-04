@@ -28,7 +28,7 @@ print("los dias de autonomia que tiene este sistema son:",autonomia_dias)
 #sequia
 litros_persona_sequia = (capacidad_util_tanque * tanques_necesarios) / (personas * 30)
 print("Cada persona podría recibir",litros_persona_sequia, "litros  en caso de una sequia de 30 dias")
-#trabajo de camilo,brehiner y diego
+#trabajo de camilo,brehiner y diego 
 
 
 
